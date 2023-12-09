@@ -1,5 +1,5 @@
 
-### Hello, eu sou Raphael rates 👋🏻🎮
+# Hello, eu sou Raphael rates 👋🏻🎮
 
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558897786089)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/etezikarapha)
@@ -10,7 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelRates&show_icons=true&theme=tokyonight)
 
 
-### Tecnologias
+## Tecnologias
 
 <div style="display: inline-block;">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -38,6 +38,10 @@
     <img align="center" alt="Tawilwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
+
+### porcetagem
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelRates&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **RaphaelRates/RaphaelRates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
