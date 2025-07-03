@@ -29,10 +29,12 @@
 <div style="display: inline-block;">     
     <img align="center" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
     <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img align="center" alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </div>
 
 ## 🔮 Desejo Estudar
 <div style="display: inline-block;">
     <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+    <img align="center" alt="Vulkan" src="https://img.shields.io/badge/Vulkan-B7410E?style=for-the-badge&logo=vulkan&logoColor=white"/>
 </div>
