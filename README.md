@@ -32,7 +32,8 @@
 <div style="display: inline-block;">     
     <img align="center" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
     <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img align="center" alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+   <img align="center" alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+   <img align="center" alt="three-fiber" src="https://img.shields.io/badge/three--fiber-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
 </div>
 
 ## 🔮 Desejo Estudar
