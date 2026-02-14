@@ -6,39 +6,34 @@
   <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Developer Animation" width="500px">
 </div>
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco em criar experiências digitais incríveis através de código. Minha jornada inclui desenvolvimento full-stack, gráficos computacionais e exploração de novas tecnologias.
+Sou um desenvolvedor apaixonado por tecnologia, criando experiências digitais incríveis através de código. Minha jornada inclui desenvolvimento **full-stack**, gráficos computacionais e exploração de novas tecnologias.
+
+---
 
 ## 🌟 Destaques
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RaphaelRates&theme=onedark&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RaphaelRates&theme=onedark&no-frame=true&no-bg=true&column=6)](https://github.com/RaphaelRates)
 
 ### 📈 Estatísticas de Atividade
 <div align="center">
   <img src="https://github-readme-streak-stats.vercel.app/?user=RaphaelRates&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaphaelRates&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribuições%20dos%20Últimos%2012%20Meses" alt="Activity Graph" />
 </div>
 
 ### 🔥 Estatísticas Detalhadas
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelRates&theme=tokyonight" alt="Profile Details" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaphaelRates&theme=tokyonight" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaphaelRates&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaphaelRates&theme=tokyonight" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaphaelRates&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 </div>
 
+---
+
 ## 🛠️ Stack Tecnológico
 
-### 💻 Linguagens de Programação
+### 💻 Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -74,35 +69,38 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar experiências 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+---
+
 ## 📚 Aprendendo Atualmente
 
-- **Visão Computacional** com OpenCV
-- **Gráficos 3D** com three.js e three-fiber
-- **Desenvolvimento de Jogos** com Unreal Engine 5
+- Visão Computacional com OpenCV  
+- Gráficos 3D com three.js / three-fiber  
+- Desenvolvimento de Jogos com Unreal Engine 5  
 
 ## 🎯 Próximos Objetivos
 
-- Explorar **Vulkan** para gráficos de baixo nível
-- Estudar **machine learning** aplicado a jogos
+- Explorar **Vulkan** para gráficos de baixo nível  
+- Estudar **Machine Learning** aplicado a jogos  
 
+---
 
-## 🏆 Conquistas e Métricas
+## 🏆 Métricas & Conquistas
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=RaphaelRates&color=0e75b6&style=for-the-badge&label=VISUALIZAÇÕES)
+  ![Profile Views](https://komarev.com/ghpvc/?username=RaphaelRates&color=0e75b6&style=for-the-badge)
   ![Followers](https://img.shields.io/github/followers/RaphaelRates?style=for-the-badge&color=0e75b6&labelColor=black)
   ![Stars](https://img.shields.io/github/stars/RaphaelRates?style=for-the-badge&color=yellow&labelColor=black)
-  
 </div>
+
+---
 
 ## 📫 Conecte-se Comigo
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/etezikarapha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-rates-201919266/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaphaelRates)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/etezikarapha)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-rates-201919266/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaphaelRates)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaelrates@gmail.com)
 
 ---
 
-⭐️ Do [RaphaelRates](https://github.com/RaphaelRates)
+⭐️ Feito com ❤️ por [RaphaelRates](https://github.com/RaphaelRates)
