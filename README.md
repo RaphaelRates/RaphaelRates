@@ -8,9 +8,6 @@
 
 Construo interfaces, sistemas e experiências 3D — do banco de dados ao pixel na tela. Sou apaixonado por desenvolvimento **full-stack**, gráficos computacionais e exploração de novas tecnologias, especialmente na interseção entre código e imagem.
 
----
-
-
 ## 📊 Estatísticas
 
 <div align="center">
@@ -26,7 +23,23 @@ Construo interfaces, sistemas e experiências 3D — do banco de dados ao pixel 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaphaelRates&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 </div>
 
----
+### 📊 Linguagens Mais Usadas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelRates&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+</div>
+
+### 🎯 Estatísticas Detalhadas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelRates&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+</div>
+
+### 📅 Contribuições por Hora do Dia
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaphaelRates&theme=tokyonight&utcOffset=-3" alt="Contribuições por Hora" />
+</div>
 
 ## 🛠️ Stack Tecnológico
 
@@ -74,6 +87,14 @@ Construo interfaces, sistemas e experiências 3D — do banco de dados ao pixel 
 
 ---
 
+## 🧠 Habilidades
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,cpp,py,react,nextjs,threejs,tailwind,nestjs,nodejs,postgres,mongodb,opengl,figma&perline=8" alt="Skill Icons" />
+</div>
+
+---
+
 ## 📚 Aprendendo Atualmente
 
 - 👁️ Visão Computacional com OpenCV
@@ -87,13 +108,16 @@ Construo interfaces, sistemas e experiências 3D — do banco de dados ao pixel 
 
 ---
 
+
 ## 📈 Métricas
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=RaphaelRates&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/RaphaelRates?style=for-the-badge&color=0e75b6&labelColor=black)
-![Stars](https://img.shields.io/github/stars/RaphaelRates?style=for-the-badge&color=yellow&labelColor=black)
+| 📊 Métrica | 📈 Valor |
+|:----------:|:--------:|
+| ⭐ Total de Estrelas | ![Stars](https://img.shields.io/github/stars/RaphaelRates?style=flat-square&label=%20&color=yellow) |
+| 👥 Seguidores | ![Followers](https://img.shields.io/github/followers/RaphaelRates?style=flat-square&label=%20&color=0e75b6) |
+| 📁 Repositórios | ![Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&label=%20&color=blue&query=public_repos&url=https://api.github.com/users/RaphaelRates) |
 
 </div>
 
@@ -106,6 +130,5 @@ Construo interfaces, sistemas e experiências 3D — do banco de dados ao pixel 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaphaelRates)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaelrates@gmail.com)
 
----
 
 ⭐️ Feito com ❤️ por [RaphaelRates](https://github.com/RaphaelRates)
